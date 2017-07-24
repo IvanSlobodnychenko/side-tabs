@@ -1,3 +1,4 @@
 .idea
 /less
 gulpfile.js
+/bower_components
